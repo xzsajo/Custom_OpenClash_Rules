@@ -30,7 +30,7 @@ DOMAIN-KEYWORD,onrender
 DOMAIN-SUFFIX,wei.bi
 DOMAIN-KEYWORD,oaiopen
 DOMAIN-KEYWORD,noobai
-DOMAIN-KEYWORD,xub
+# DOMAIN-KEYWORD,xub
 DOMAIN-SUFFIX,api-proxy.me
 
 # Docker 镜像
