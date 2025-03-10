@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,zuobiao.press
 # 985盒子
 DOMAIN-SUFFIX,985hezi.com
 
-# 公益API
+# 公益API | 公益站
 DOMAIN-SUFFIX,theoremhub.asia
 DOMAIN-SUFFIX,theoremhub.xin
 DOMAIN-KEYWORD,theoremhub
@@ -47,3 +47,6 @@ DOMAIN-KEYWORD,acfun
 
 # 官方大善人
 DOMAIN-KEYWORD,pollinations
+
+# 蓝奏云
+DOMAIN-KEYWORD,dmpdmp
